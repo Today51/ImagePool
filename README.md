@@ -1,2 +1,2 @@
 # ImagePool
-markdown图床
+图床
